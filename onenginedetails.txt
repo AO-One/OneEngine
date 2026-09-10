@@ -1,0 +1,2 @@
+cd C:\Users\Peter\OneDrive\Anthony\One\OneEngine
+npm run dev
