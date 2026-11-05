@@ -1,2 +1,3 @@
 cd C:\Users\Peter\OneDrive\Anthony\One\OneEngine
 npm run dev
+http://localhost:5173/
